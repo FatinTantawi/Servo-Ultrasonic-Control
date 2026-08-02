@@ -49,7 +49,7 @@ https://drive.google.com/file/d/13qAZXm2Y31VAGNNxLuyqisVVKNUF5yiT/view?usp=shari
 
 ## Description
 
-The project was implemented using a real Arduino Uno connected directly to the HC-SR04 Ultrasonic Sensor and the SG90 Servo Motor without a breadboard.
+The project was implemented using a real Arduino Uno connected directly to the HC-SR04 Ultrasonic Sensor and the SG90 Servo Motor.
 
 ### Features
 
